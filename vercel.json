@@ -1,4 +1,4 @@
 {
-  "buildCommand": "cd RoyalIT-main && npm run build",
+  "buildCommand": "cd RoyalIT-main && npm install && npm run build",
   "outputDirectory": "RoyalIT-main/dist"
 }
