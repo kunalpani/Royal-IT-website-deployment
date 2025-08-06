@@ -55,7 +55,7 @@ const Header = () => {
                   }}
                 >
                   <img
-                    src="public\\videos\\intro.mp4\\logo.PNG"
+                    src="/videos/intro.mp4/logo.PNG"
                     alt=""
                     style={{
                       width: '100%',

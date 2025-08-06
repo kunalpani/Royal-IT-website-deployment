@@ -26,7 +26,7 @@ const Services = () => {
     id: 1,
     title: "Software Development",
     description: "Empowering you to work smarter and achieve more then you think.",
-    image: "Software Consulting and Development Company.jpg",
+    image: "/Software Consulting and Development Company.jpg",
     features: [
       "Custom software solutions",
       "Agile development methodology",
@@ -40,7 +40,7 @@ const Services = () => {
     id: 2,
     title: "Cloud Services",
     description: "Flexible cloud solutions to enhance your business operations and scalability.",
-    image: "cloud image.jpg",
+    image: "/cloud image.jpg",
     features: [
       "Cloud storage solutions",
       "Cloud migration services",
@@ -54,7 +54,7 @@ const Services = () => {
     id: 3,
     title: "Cybersecurity",
     description: "Robust cybersecurity solutions to protect your business from threats and ensure data integrity.",
-    image: "cyber security.jpg",
+    image: "/cyber security.jpg",
     features: [
       "Threat assessment",
       "Network security",
@@ -68,7 +68,7 @@ const Services = () => {
     id: 4,
     title: "Networking & Infrastructure",
     description: "Reliable networking solutions to enhance connectivity and infrastructure performance.",
-    image: "networking.jpg",
+    image: "/networking.jpg",
     features: [
       "Network design and implementation",
       "Cloud infrastructure setup",
@@ -82,7 +82,7 @@ const Services = () => {
     id: 5,
     title: "Digital Marketing",
     description: "Effective digital marketing strategies to boost your online presence and reach your audience.",
-    image: "digital marketing.jpg",
+    image: "/digital marketing.jpg",
     features: [
       "SEO optimization",
       "Social media marketing",
@@ -96,7 +96,7 @@ const Services = () => {
     id: 6,
     title: "Data Services",
     description: "Comprehensive data management solutions to help you harness the power of your data.",
-    image: "Data Services.jpg",
+    image: "/Data Services.jpg",
     features: [
       "Data analytics",
       "Data warehousing",
@@ -110,7 +110,7 @@ const Services = () => {
     id: 7,
     title: "UI/UX Design",
     description: "Creative UI/UX design services to enhance user engagement and satisfaction.",
-    image: "ui.jpg",
+    image: "/ui.jpg",
     features: [
       "User research",
       "Wireframing and prototyping",
@@ -124,7 +124,7 @@ const Services = () => {
     id: 8,
     title: "Graphic Design",
     description: "Professional graphic design services to create stunning visuals for your brand.",
-    image: "Graphic Design.jpg",
+    image: "/Graphic Design.jpg",
     features: [
       "Logo design",
       "Marketing materials",
@@ -138,7 +138,7 @@ const Services = () => {
     id: 9,
     title: "Video Editing",
     description: "High-quality video editing services to bring your stories to life.",
-    image: "videoe.jpg",
+    image: "/videoe.jpg",
     features: [
       "Professional editing",
       "Color correction",

@@ -104,7 +104,7 @@ const Home = () => {
       }
     }}>
       <video
-        src="public/videos/intro.mp4/recording 2025-07-04 154816.mp4"
+        src="/videos/intro.mp4/Recording 2025-07-04 154816.mp4"
         autoPlay
         muted
         loop
@@ -191,7 +191,7 @@ initial="offscreen"
         boxShadow: "0 20px 25px -5px rgba(0,0,0,0.3)"
       }}>
         <img 
-          src="homee.avif" // Replace with your image
+          src="/homee.avif" // Replace with your image
           alt="Royal IT Services"
           className="img-fluid "
           style={{
@@ -275,7 +275,7 @@ initial="offscreen"
         style={{ position: 'relative', overflow: 'hidden', margin: '4rem 0' }}
       >
         <video
-          src="public/videos/intro.mp4/delivery image.mp4"
+          src="/videos/intro.mp4/delivery image.mp4"
           autoPlay
           muted
           loop

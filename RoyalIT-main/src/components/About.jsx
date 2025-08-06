@@ -289,7 +289,7 @@ const About = () => {
                   }}
                 >
                  <img 
-  src="public\videos\intro.mp4\about us 1.jpg" 
+  src="/videos/intro.mp4/about us 1.jpg" 
   alt="Digital technology solutions" 
   className="w-100 h-100 object-cover" 
   style={{ objectPosition: "bottom top", objectFit: "cover", // Ensures the image covers the area without stretching
@@ -526,7 +526,7 @@ const About = () => {
                 
           <div className="position-relative mb-5" style={{ zIndex: 1 }}>
             <img 
-              src="dash.jpg" 
+              src="/dash.jpg" 
               alt="Team working" 
               className="img-fluid rounded shadow" 
               style={{ height: '60%', width:"100%" }}
